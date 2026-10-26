@@ -25,9 +25,13 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrCode-Man&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCode-Man&layout=compact&theme=tokyonight" />
+</p>
 
 
-<p align="center">✨ Projetos que mais fiquei feliz de fazer até agora</p>
+<p align="center">✨ Projetos legais que fiz até agora</p>
 
 - [Gerador procedural em rust](https://github.com/MrCode-Man/espaco_procedural)
 - [Minha config Neovim](https://github.com/MrCode-Man/Vim_config)
